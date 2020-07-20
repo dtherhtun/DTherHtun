@@ -8,6 +8,5 @@
     So, Please bump me on <a href="https://twitter.com/D_Ther_Htun">Twitter</a>, and also <a href="https://www.linkedin.com/in/dtherhtun">LinkedIn</a>. I am happy to help organisation or individuals who would like to share or discuss Devops or platform-ops related technologies and use cases.
   </samp>
 </p>
-<a hre
-<img src=1 href=1 onerror="javascript:alert(1)"></img>
+
 
