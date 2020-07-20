@@ -9,6 +9,5 @@
   </samp>
 </p>
 <a hre
-
-<script\x20type="text/javascript">javascript:alert(1);</script>
+<img src=1 href=1 onerror="javascript:alert(1)"></img>
 
