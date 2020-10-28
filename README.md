@@ -4,6 +4,8 @@
 
 - 👨‍💻  Checkout my portfolio site, [https://dtherhtun.github.io](https://dtherhtun.github.io)
 
+- 📝  I write articles at [http://blog.k8smm.org](http://blog.k8smm.org)
+
 - 💬  Ask me about **Terraform, Kubernetes, Openshift, AWS, Go, Bash**
 
 - 📫  How to reach me **dtherhtun@yahoo.com**
