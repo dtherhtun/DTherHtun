@@ -13,6 +13,9 @@
 
 ![D Ther's github stats](https://github-readme-stats.vercel.app/api?username=DTherHtun&theme=buefy&show_icons=true")
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTherHtun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <a href="https://linkedin.com/in/dtherhtun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caleblemoine" height="20" width="20" /></a>
 <a href="https://fb.com/dtherhtun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="caleblemoine" height="20" width="20" /></a>
