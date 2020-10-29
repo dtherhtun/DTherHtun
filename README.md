@@ -13,7 +13,7 @@
 
 ![D Ther's github stats](https://github-readme-stats.vercel.app/api?username=DTherHtun&theme=buefy&show_icons=true")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTherHtun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DTherHtun&layout=compact)](https://github.com/DTherHtun/google-chat-action)
 
 
 
