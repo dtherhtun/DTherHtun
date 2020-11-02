@@ -6,9 +6,20 @@
 
 - 📝  I write articles at [http://blog.k8smm.org](http://blog.k8smm.org)
 
-- 💬  Ask me about **Terraform, Kubernetes, Openshift, AWS, Go, Bash**
-
 - 📫  How to reach me **dtherhtun@yahoo.com**
+
+### Tech Stack
+<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
+<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
+<br>
+<br>
 
 
 ![D Ther's github stats](https://github-readme-stats.vercel.app/api?username=DTherHtun&show_icons=true")
