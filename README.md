@@ -11,7 +11,6 @@
 ### Tech Stack
 <img align="left" alt="AWS" width="26px" src="./svg/amazonaws.svg" />
 <img align="left" alt="GCP" width="26px" src="./svg/googlecloud.svg" />
-<img align="left" alt="VMWARE" width="26px" src="./svg/vmware.svg" />
 <img align="left" alt="Kubernetes" width="26px" src="./svg/kubernetes.svg" />
 <img align="left" alt="Openshift" width="26px" src="./svg/redhatopenshift.svg" />
 <img align="left" alt="Docker" width="26px" src="./svg/docker.svg" />
