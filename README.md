@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Platform Engineer that loves to automate all the things</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DTherHtun" alt="DTherHtun" /> </p>
 
-- 👨‍💻  Checkout my portfolio site, [https://dtherhtun.github.io](https://dtherhtun.github.io)
+- 👨‍💻  Checkout my portfolio site, [https://dther.tf](https://dther.tf)
 
 - 📝  I write articles at [http://blog.k8smm.org](http://blog.k8smm.org)
 
