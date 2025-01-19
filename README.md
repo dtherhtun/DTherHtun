@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm D Ther Htun</h1>
-<h3 align="center">I'm a Platform Engineer that loves to automate all the things</h3>
+<h3 align="center">I'm a Platform Engineer who loves automating everything.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DTherHtun" alt="DTherHtun" /> </p>
 
 - 👨‍💻  Checkout my portfolio site, [https://dther.tf](https://dther.tf)
